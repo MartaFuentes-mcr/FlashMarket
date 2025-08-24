@@ -20,10 +20,10 @@ La plataforma permite explorar productos, filtrarlos por categorías, añadirlos
 ## 🖥️ Tecnologías utilizadas
 
 - **HTML5**  
-- **CSS3 / SASS**  
-- **Bootstrap / TailwindCSS**  
+- **CSS3**  
+- **TailwindCSS**  
 - **JavaScript (ES6+)**  
-- **Git & GitHub**
+
   
 ---
 
