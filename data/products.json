@@ -1,0 +1,91 @@
+{
+  "categories": [
+    { "id": "electronics", "name": "Electrónica" },
+    { "id": "home", "name": "Hogar" },
+    { "id": "fashion", "name": "Moda" },
+    { "id": "sports", "name": "Deportes" }
+  ],
+  "products": [
+    {
+      "id": "p-1001",
+      "title": "Auriculares Inalámbricos",
+      "description": "Cancelación de ruido y batería de larga duración.",
+      "category": "electronics",
+      "price": 25.90,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1606400082777-ef05f3c5cde2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "p-1002",
+      "title": "Smartwatch Deportivo",
+      "description": "Monitoreo cardíaco y GPS integrado.",
+      "category": "electronics",
+      "price": 120,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1754330895582-b2e65c630f7a?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "p-1003",
+      "title": "Zapatillas Running",
+      "description": "Amortiguación ligera para largas distancias.",
+      "category": "sports",
+      "price": 60,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "p-1004",
+      "title": "Cafetera Automática",
+      "description": "Espresso y capuccino con un solo toque.",
+      "category": "home",
+      "price": 210,
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1637029436347-e33bf98a5412?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "p-1005",
+      "title": "Chaqueta Impermeable",
+      "description": "Resistente al viento y lluvia, ideal para trekking.",
+      "category": "fashion",
+      "price": 35.90,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1611308725032-74f0a551d018?q=80&w=722&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "p-1006",
+      "title": "Lámpara de Pie LED",
+      "description": "Luz regulable con control táctil.",
+      "category": "home",
+      "price": 120.00,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1675767528183-628d7e46ae59?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "p-1007",
+      "title": "Ratón Gaming Razer",
+      "description": "Sensor óptico de alta precisión, RGB y 7 botones programables.",
+      "category": "electronics",
+      "price": 59.90,
+      "stock": 14,
+      "image": "https://assets2.razerzone.com/images/pnx.assets/8f0f4a0e63f981997c460030de431fe6/nagafamilypg-ogimg-1200x630.png"
+    },
+    {
+      "id": "p-1008",
+      "title": "MacBook M4",
+      "description": "Chip M4, 16GB RAM, 512GB SSD. Rendimiento profesional y autonomía superior.",
+      "category": "electronics",
+      "price": 1999,
+      "stock": 5,
+      "image": "https://www.ventasrosario.com.ar/wp-content/uploads/2025/03/sddefault.jpg"
+    },
+    {
+      "id": "p-1009",
+      "title": "Teclado Mecánico Ajazz AK980",
+      "description": "Layout 98%, switches mecánicos, retroiluminación y hot-swap.",
+      "category": "electronics",
+      "price": 89.00,
+      "stock": 17,
+      "image": "https://ae01.alicdn.com/kf/S3ae7b8e1e92041c4a66cbf00b554bd092/Teclado-mec-nico-para-juegos-Ajazz-AK980-con-pantalla-a-Color-98-teclas-RGB-Bluetooth-teclado.jpg"
+    }
+  ]
+}
