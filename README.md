@@ -23,8 +23,8 @@ La plataforma permite explorar productos, filtrarlos por categorías, añadirlos
 - **CSS3 / SASS**  
 - **Bootstrap / TailwindCSS**  
 - **JavaScript (ES6+)**  
-- **Git & GitHub**  
-
+- **Git & GitHub**
+  
 ---
 
 ## 📸 Vista previa
@@ -36,3 +36,13 @@ La plataforma permite explorar productos, filtrarlos por categorías, añadirlos
 ### Catálogo de productos
 ![Vista previa]<img width="1877" height="933" alt="productos" src="https://github.com/user-attachments/assets/644b0148-d8be-47b0-8d9e-1ae6208f51d3" />
 
+
+📌 Próximas mejoras
+
+🛒 Integración de pagos reales
+
+🔍 Búsqueda avanzada con filtros dinámicos
+
+👤 Sistema de login y registro de usuarios
+
+📦 Gestión de stock y panel administrador
