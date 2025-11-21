@@ -27,14 +27,14 @@ La plataforma permite explorar productos, filtrarlos por categorías, añadirlos
   
 ---
 
-## 📸 Vista previa
+
 
 ### Landing principal
-![Vista previa]<img width="1893" height="937" alt="landingFashMarket" src="https://github.com/user-attachments/assets/76dcb625-b630-46e3-8f80-c221f23ba1b4" />
+<img width="1893" height="937" alt="landingFashMarket" src="https://github.com/user-attachments/assets/76dcb625-b630-46e3-8f80-c221f23ba1b4" />
 
 
 ### Catálogo de productos
-![Vista previa]<img width="1877" height="933" alt="productos" src="https://github.com/user-attachments/assets/644b0148-d8be-47b0-8d9e-1ae6208f51d3" />
+<img width="1877" height="933" alt="productos" src="https://github.com/user-attachments/assets/644b0148-d8be-47b0-8d9e-1ae6208f51d3" />
 
 
 📌 Próximas mejoras
